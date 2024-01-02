@@ -21,8 +21,8 @@ End the program.
 ## PROGRAM:
 ```
 # program for copying the contents from one file to another file.
-# Developed by:Ashwath M
-# Reference number:212223230023
+# Developed by:Reklies J
+# Reference number:212223110041
 with open("sample1.txt", "r") as firstfile:
     with open("sample2.txt", "a") as secondfile:
         for line in firstfile:
